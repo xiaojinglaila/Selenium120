@@ -7,3 +7,4 @@ class DengLuTest(MyTestCase):
         loginPage=LoginPage(self.driver)
         loginPage.login("qingtian","123456")
 
+######
